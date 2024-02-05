@@ -1,3 +1,4 @@
+//games.js file 
 // Image credits: Kickstarter
 const games = ` [
   {
