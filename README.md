@@ -26,9 +26,9 @@ Here's a walkthrough of implemented features:
 ![Video Walkthrough](https://github.com/ba-00001/web102_prework/blob/main/WEB102_GIF.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools: [ScreenToGif](https://www.screentogif.com/) for Windows -->
-
+GIF created with: 
+<!-- Recommended tools:  -->
+[ScreenToGif](https://www.screentogif.com/) for Windows
 ## Notes
 
 Describe any challenges encountered while building the app.
