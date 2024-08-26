@@ -1,4 +1,5 @@
 //index.js file 
+// import the JSON data about the crowd funded games from the games.js file
 
 
 /*****************************************************************************
